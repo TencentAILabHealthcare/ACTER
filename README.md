@@ -1,7 +1,7 @@
-# ACTER: the Antigen-oriented Classification of T cells by joint Embedding of the T cell Receptor sequence and the gene expression matrix
+## ACTER: the Antigen-oriented Classification of T cells by joint Embedding of the T cell Receptor sequence and the gene expression matrix
 Joint clustering using TCR sequence and gene expression
+![image]([https://github.com/TencentAILabHealthcare/ACTER/blob/main/framework.jpg])
 
-[TOC]
 
 ## Configurationt
 
