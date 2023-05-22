@@ -1,4 +1,4 @@
-# VDJ Clustering
+# ACTER: the Antigen-oriented Classification of T cells by joint Embedding of the T cell Receptor sequence and the gene expression matrix
 Joint clustering using TCR sequence and gene expression
 
 [TOC]
