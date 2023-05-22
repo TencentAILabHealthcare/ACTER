@@ -1,0 +1,1 @@
+python /data_jimmyyzhang/home/jimmyyzhangRoot/bin/conga/scripts/merge_samples.py --samples data/GSE178881/Dataset/merged_samples.tsv --output_clones_file ../Result/GSE178881/merged_clones.tsv --output_gex_data ../Result/GSE178881/merged_gex.h5ad --organism mouse
